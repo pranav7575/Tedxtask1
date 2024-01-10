@@ -1,0 +1,42 @@
+.foot {
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: space-between;
+  padding: 3% 5%;
+  width: 100%;
+  
+  
+}
+.leftfoot {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  row-gap: 30px;
+}
+.rightfoot {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.title1 {
+  /* margin-top: 40px; */
+  font-size: 30px;
+  font-weight: bold;
+}
+.basicinfo {
+  width: 400px;
+  text-wrap: wrap;
+  margin-left: 200px;
+}
+.con-details {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  align-items: center;
+}
+.mailsec {
+  left: 50%;
+}

@@ -1,0 +1,57 @@
+.nav-container{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+.title
+{   margin-left: 200px;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+.homedir{
+    text-decoration: none;
+}
+#tedx{
+    color: red;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.about1{
+font-size: 17px;
+font-weight: bold;
+color: white;
+text-decoration: none;
+}
+.lookbook1{
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+text-decoration: none;
+}
+.contact1{
+    font-size: 17px;
+    font-weight: bold;
+    margin-right: 10px;
+    color: white;
+text-decoration: none;
+}
+.nav-icon{
+    display: flex;
+    gap:16px;
+    margin-left: 15px;
+align-items: center;
+    
+}

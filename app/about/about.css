@@ -1,0 +1,74 @@
+
+
+.aboutcontainer
+{   display: flex;
+    width: 100%;
+    flex-direction: column;
+    background-color: #03142a;
+    color: white;
+font-family: 'Times New Roman', Times, serif;
+}
+.abouttitle
+{ 
+padding: 3rem;
+}
+.abouthead{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+  .para1
+  {
+    margin: 1rem 17rem 5rem 15rem;
+    text-align: justify;
+  }
+.question1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.ted{
+    color: red;
+    font-weight: bolder;
+}
+.ans1{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.para2
+{
+  margin: 50px 180px 50px 300px;
+  text-align: justify;
+}
+.question2{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: end;
+}
+.tedx{
+  color: red;
+  font-weight: bolder;
+}
+.ans2{
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+.para3
+{
+    margin: 4rem 17rem 5rem 15rem;
+  text-align: justify;
+}
+.question3{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: start;
+}
+.tedxvit{
+  color: red;
+  font-weight: bolder;
+}
+.ans3{
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
